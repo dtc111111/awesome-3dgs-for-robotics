@@ -18,14 +18,14 @@ If you find this repository useful, please consider [citing](#citation) and STAR
     - [Multi-Modal](#MM)
     - [Object Detection](#Object-Detection)
     
-  - [Mapping&Localization](#slam)
+  - [Mapping & Localization](#slam)
     - [3D Reconstruction](#3D-Reconstruction)
     - [Visual-SLAM](#Visual-SLAM)
     - [Lidar-SLAM](#Lidar-SLAM)
     - [Multimodal-SLAM](#Multimodal-SLAM)
       
-  - [Planning/Navigation](#planningnavigation)
-  - [Manipulation/RL](#manipulationrl)
+  - [Planning & Navigation](#planningnavigation)
+  - [Manipulation & RL](#manipulationrl)
 
   - [Citation](#citation)
 
