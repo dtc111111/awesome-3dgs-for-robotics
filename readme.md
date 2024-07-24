@@ -6,13 +6,12 @@ This repo contains a curative list of **3D Gaussian Splatting papers relating to
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
-For an overview of **3D Gaussian Splatting**, checkout the Survey ([Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204) and [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/pdf/2210.00379.pdf)), Blog post ([NeRF Explosion 2020](https://dellaert.github.io/NeRF/)) and Collection ([awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF))
-
 ---
 
 ## Overview
-
-  - [NeRF Foundation Model](#nerf-general-model)
+  - [3DGS Survey](#3dgs-survey)
+  - 
+  - [3DGS Foundation Model](#3dgs-general-model)
 
   - [SLAM](#slam)
     - [Visual-SLAM](#Visual-SLAM)
@@ -30,7 +29,7 @@ For an overview of **3D Gaussian Splatting**, checkout the Survey ([Neural Volum
   - [Citation](#citation)
 
 ---
-## 3D Gaussian Splatting Survey
+## 3DGS Survey
 
 #### [S0] A Survey on 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Guikun Chen, Wenguan Wang
