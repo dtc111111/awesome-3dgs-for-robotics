@@ -14,9 +14,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [3DGS Foundation Model](#3dgs-general-model)
 
   - [Perception](#perception)
-    -[Semantic](#Semantic)
-    -[Multi-Modal](#MM)
-    -[Object Detection](#Object-Detection)
+    - [Semantic](#Semantic)
+    - [Multi-Modal](#MM)
+    - [Object Detection](#Object-Detection)
     
   - [Mapping&Localization](#slam)
     - [3D Reconstruction](#3D-Reconstruction)
