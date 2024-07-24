@@ -10,55 +10,52 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Overview
   - [3DGS Survey](#3dgs-survey)
-  - 
+    
   - [3DGS Foundation Model](#3dgs-general-model)
 
-  - [SLAM](#slam)
+  - [Perception](#perception)
+    -[Semantic](#Semantic)
+    -[Multi-Modal](#MM)
+    -[Object Detection](#Object-Detection)
+    
+  - [Mapping&Localization](#slam)
+    - [3D Reconstruction](#3D-Reconstruction)
     - [Visual-SLAM](#Visual-SLAM)
     - [Lidar-SLAM](#Lidar-SLAM)
     - [Multimodal-SLAM](#Multimodal-SLAM)
-
-  - [Robotics](#Robotics)
-
-    - [Manipulation/RL](#manipulationrl)
-
-    - [Planning/Navigation](#planningnavigation)
-
-    - [Localization](#localization)
+      
+  - [Planning/Navigation](#planningnavigation)
+  - [Manipulation/RL](#manipulationrl)
 
   - [Citation](#citation)
 
 ---
 ## 3DGS Survey
 
-#### [S0] A Survey on 3D Gaussian Splatting
-- **🧑‍🔬 作者**：Guikun Chen, Wenguan Wang
-- **🏫 单位**：Zhejiang University
-- **🔗 链接**：[[中英摘要](./abs/2401.03890.md)] [[arXiv:2401.03890](https://arxiv.org/abs/2401.03890)]
-- **📝 说明**：🔥 首篇综述
+#### [S1] A Survey on 3D Gaussian Splatting
+- **🧑‍🔬 Author**：Guikun Chen, Wenguan Wang
+- **🏫 Institute**：Zhejiang University
+- **🔗 Link**：[[arXiv:2401.03890](https://arxiv.org/abs/2401.03890)]
 
-#### [S1] 3D Gaussian as a New Vision Era: A Survey
-- **🧑‍🔬 作者**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
-- **🏫 单位**：Fudan University ⟐ Nanyang Technological University
-- **🔗 链接**：[[中英摘要](./abs/2402.07181.md)] [[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
-- **📝 说明**：🏆 Accepted to IEEE TVCG 2024
 
-#### [S2] Recent Advances in 3D Gaussian Splatting
-- **🧑‍🔬 作者**：Tong Wu, Yu-Jie Yuan, Ling-Xiao Zhang, Jie Yang, Yan-Pei Cao, Ling-Qi Yan, Lin Gao
-- **🏫 单位**：Chinese Academy of Sciences ⟐ VAST ⟐  University of California
-- **🔗 链接**：[[中英摘要](./abs/2403.11134.md)] [[arXiv:2403.11134](https://arxiv.org/abs/2403.11134)]
-- **📝 说明**：🔥 第三篇综述，涵盖了更多最新进展
+#### [S2] 3D Gaussian as a New Vision Era: A Survey
+- **🧑‍🔬 Author**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
+- **🏫 Institute**：Fudan University ⟐ Nanyang Technological University
+- **🔗 Link**：[[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
 
-#### [S3] Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review
-- **🧑‍🔬 作者**：Anurag Dalal, Daniel Hagen, Kjell G. Robbersmyr, Kristian Muri Knausgård
-- **🏫 单位**：University of Agder
-- **🔗 链接**：[[中英摘要](./abs/2405.03417.md)] [[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
-- **📝 说明**：🔥 第四篇综述
 
-#### [S4] 3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods
-- **🧑‍🔬 作者**：Milena T. Bagdasarian, Paul Knoll, Florian Barthel, Anna Hilsmann, Peter Eisert, Wieland Morgenstern
-- **🏫 单位**：Fraunhofer Heinrich Hertz ⟐ Humboldt University of Berlin
-- **🔗 链接**：[[中英摘要](./abs/2407.09510.md)] [[arXiv:2407.09510](https://arxiv.org/abs/2407.09510)]
-- **📝 说明**：🧩 高斯压缩综述
+#### [S3] Recent Advances in 3D Gaussian Splatting
+- **🧑‍🔬 Author**：Tong Wu, Yu-Jie Yuan, Ling-Xiao Zhang, Jie Yang, Yan-Pei Cao, Ling-Qi Yan, Lin Gao
+- **🏫 Institute**：Chinese Academy of Sciences ⟐ VAST ⟐  University of California
+- **🔗 Link**：[[arXiv:2403.11134](https://arxiv.org/abs/2403.11134)]
+
+
+#### [S4] Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review
+- **🧑‍🔬 Author**：Anurag Dalal, Daniel Hagen, Kjell G. Robbersmyr, Kristian Muri Knausgård
+- **🏫 Institute**：University of Agder
+- **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
+
+
+
 
 ---
