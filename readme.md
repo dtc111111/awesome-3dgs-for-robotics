@@ -70,7 +70,7 @@ If you find this repository useful, please consider citing this list:
 ```
 @misc{Deng20243dgspaperlist,
     title = {awesome-Implicit-NeRF-SLAM},
-    author = {Tianchen Deng, Yue Pan, Xingxing Zuo, Shenghai Yuan, Nailin Wang, Hesheng Wang, Jingchuan Wang, Cryill Stachness, Lihua Xie, Danwei Wang, Weidong Chen},
+    author = {Tianchen Deng, Yue Pan, Xingxing Zuo, Shenghai Yuan, Nailin Wang, Hesheng Wang, Jingchuan Wang, Cyrill Stachniss, Lihua Xie, Danwei Wang, Weidong Chen},
     howpublished = {\url{https://github.com/dtc111111/awesome-3dgs-for-robotics}},
     year = {2024}
 }
