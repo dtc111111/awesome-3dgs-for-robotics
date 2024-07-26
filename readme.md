@@ -76,6 +76,16 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **MoDGS**: Dynamic Gaussian Splatting from Causually-captured Monocular Videos, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.00434)] [[Website](https://arxiv.org/abs/2406.00434)]
 * Street Gaussians for Modeling Dynamic Urban Scenes, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.01339.pdf)] [[Website](https://zju3dv.github.io/street_gaussians/)] [[Code](https://github.com/zju3dv/street_gaussians)]
 * **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.07920.pdf)] [[Website]([https://arxiv.org/abs/2406.09395](https://pkuvdig.github.io/DrivingGaussian/)]
+* **Guess The Unseen**: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.14410)] [[Website](https://snuvclab.github.io/gtu/)] [[Code](https://github.com/snuvclab/gtu/)]
+
+## Planning & Navigation
+* **GaussNav**: Gaussian Splatting for Visual Navigation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11625.pdf)] [[Website](https://xiaohanlei.github.io/projects/GaussNav/)] [[Code](https://github.com/XiaohanLei/GaussNav)]
+* **3DGS-ReLoc**: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11367)] [[Website](https://arxiv.org/abs/2403.11367)]
+* **Beyond Uncertainty**: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11396)] [[Website](https://arxiv.org/abs/2403.11396)]
+* **3DGS-Calib**: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11577)] [[Website](https://arxiv.org/abs/2403.11577)]
+* **HUGS**: Golistic Urban 3D Scene Understanding via Gaussian Splatting, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.12722.pdf)] [[Website](https://xdimlab.github.io/hugs_website/)]
+* **HO-Gaussian**: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.20032.pdf)] [[Website](https://arxiv.org/abs/2403.20032)]
+* **SGD**: Street View Synthesis with Gaussian Splatting and Diffusion Prior, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.20079.pdf)] [[Website](https://arxiv.org/abs/2403.20079)]
 ---
 ## Citation
 
