@@ -56,13 +56,24 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 - **🏫 Institute**：University of Agder
 - **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
 
-## 3DGS Foundation Model
+## Seminal Works in 3DGS 
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering, *SIGGRAPH, 2023*. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
 * 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, *SIGGRAPH, 2024*. [[Paper](https://arxiv.org/pdf/2403.17888)] [[Website](https://surfsplatting.github.io/)]  [[Code](https://github.com/hbb1/2d-gaussian-splatting)]
 * **Mip-splatting**: Alias-free 3d gaussian splatting, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)] [[Website](https://niujinshuchong.github.io/mip-splatting/)]  [[Code](https://github.com/autonomousvision/mip-splatting)]
 
 ## Mapping & Localization
 ### 3D Reconstruction
+
+* SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2311.12775)] [[Website](https://imagine.enpc.fr/~guedona/sugar/)]  [[Code](https://github.com/Anttwo/SuGaR)]
+* 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, *SIGGRAPH, 2024*. [[Paper](https://arxiv.org/pdf/2403.17888)] [[Website](https://surfsplatting.github.io/)]  [[Code](https://github.com/hbb1/2d-gaussian-splatting)]
+* Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes, *arXiv*.  [[Paper](https://arxiv.org/pdf/2404.10772)] [[Website](https://niujinshuchong.github.io/gaussian-opacity-fields/)]  [[Code](https://github.com/autonomousvision/gaussian-opacity-fields)]
+* High-quality Surface Reconstruction using Gaussian Surfels, *SIGGRAPH, 2024*. [[Paper](https://arxiv.org/pdf/2404.17774
+)] [[Website](https://turandai.github.io/projects/gaussian_surfels/)]  [[Code](https://github.com/turandai/gaussian_surfels)]
+* RaDe-GS: Rasterizing Depth in Gaussian Splatting, *arXiv*. 
+[[Paper](https://arxiv.org/pdf/2406.01467
+)] [[Website](https://baowenz.github.io/radegs/)]  [[Code](https://github.com/BaowenZ/RaDe-GS)]
+
+
 
 ### Dynamic Scene Reconstruction
 * EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.19811)] [[Website](https://arxiv.org/abs/2406.19811)]
@@ -94,7 +105,7 @@ If you find this repository useful, please consider citing this list:
 ```
 @misc{Deng20243dgspaperlist,
     title = {awesome-Implicit-NeRF-SLAM},
-    author = {Tianchen Deng, Yue Pan, Xingxing Zuo, Shenghai Yuan, Nailin Wang, Hesheng Wang, Jingchuan Wang, Cyrill Stachniss, Lihua Xie, Danwei Wang, Weidong Chen},
+    author = {Tianchen Deng, Yue Pan, Xingxing Zuo, Shenghai Yuan, Nailin Wang, Hesheng Wang, Jingchuan Wang, Lihua Xie, Danwei Wang, Weidong Chen},
     howpublished = {\url{https://github.com/dtc111111/awesome-3dgs-for-robotics}},
     year = {2024}
 }
