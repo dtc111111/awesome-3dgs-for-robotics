@@ -75,7 +75,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **DreamPhysics**: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.09395)] [[Website](https://arxiv.org/abs/2406.01476)] [[Code](https://github.com/tyhuang0428/DreamPhysics)]
 * **MoDGS**: Dynamic Gaussian Splatting from Causually-captured Monocular Videos, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.00434)] [[Website](https://arxiv.org/abs/2406.00434)]
 * Street Gaussians for Modeling Dynamic Urban Scenes, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.01339.pdf)] [[Website](https://zju3dv.github.io/street_gaussians/)] [[Code](https://github.com/zju3dv/street_gaussians)]
-* **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.07920.pdf)] [[Website]([https://arxiv.org/abs/2406.09395](https://pkuvdig.github.io/DrivingGaussian/)]
+* **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.07920.pdf)] [[Website](https://pkuvdig.github.io/DrivingGaussian/)]
 * **Guess The Unseen**: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.14410)] [[Website](https://snuvclab.github.io/gtu/)] [[Code](https://github.com/snuvclab/gtu/)]
 
 ## Planning & Navigation
