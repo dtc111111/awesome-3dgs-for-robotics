@@ -29,6 +29,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
       
   - [Planning & Navigation](#planningnavigation)
   - [Manipulation & RL](#manipulationrl)
+  - [Simulation & Human Interaction](#editing)
 
   - [Citation](#citation)
 
