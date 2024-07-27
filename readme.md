@@ -25,8 +25,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [Mapping & Localization](#slam)
     - [3D Reconstruction](#3D-Reconstruction)
     - [Dynamic Scene Reconstruction](#Dynamic-Reconstruction)
-    - [Visual-SLAM](#Visual-SLAM)
-    - [Lidar-SLAM](#Lidar-SLAM)
+    - [Localization & Visual SLAM](#Visual-SLAM)
     - [Multimodal-SLAM](#Multimodal-SLAM)
       
   - [Planning & Navigation](#planningnavigation)
