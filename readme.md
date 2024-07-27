@@ -32,12 +32,28 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ---
 ## 3DGS Survey
-* A Survey on 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.03890)] [[Website](https://arxiv.org/abs/2401.03890)]
-* 3D Gaussian as a New Vision Era: A Survey, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.07181)] [[Website](https://arxiv.org/abs/2402.07181)]
-* Recent Advances in 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11134)] [[Website](https://arxiv.org/abs/2403.11134)]
-* Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review, *arXiv*. [[Paper](https://arxiv.org/pdf/2405.03417)] [[Website](https://arxiv.org/abs/2405.03417)]
-* 3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.09510)] [[Website](https://arxiv.org/abs/2407.09510)]
-* , *arXiv*. [[Paper](https://arxiv.org/pdf/2401.03890)] [[Website](https://arxiv.org/abs/2401.03890)]
+#### [S1] A Survey on 3D Gaussian Splatting
+- **🧑‍🔬 Author**：Guikun Chen, Wenguan Wang
+- **🏫 Institute**：Zhejiang University
+- **🔗 Link**：[[arXiv:2401.03890](https://arxiv.org/abs/2401.03890)]
+
+
+#### [S2] 3D Gaussian as a New Vision Era: A Survey
+- **🧑‍🔬 Author**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
+- **🏫 Institute**：Fudan University ⟐ Nanyang Technological University
+- **🔗 Link**：[[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
+
+
+#### [S3] Recent Advances in 3D Gaussian Splatting
+- **🧑‍🔬 Author**：Tong Wu, Yu-Jie Yuan, Ling-Xiao Zhang, Jie Yang, Yan-Pei Cao, Ling-Qi Yan, Lin Gao
+- **🏫 Institute**：Chinese Academy of Sciences ⟐ VAST ⟐  University of California
+- **🔗 Link**：[[arXiv:2403.11134](https://arxiv.org/abs/2403.11134)]
+
+
+#### [S4] Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review
+- **🧑‍🔬 Author**：Anurag Dalal, Daniel Hagen, Kjell G. Robbersmyr, Kristian Muri Knausgård
+- **🏫 Institute**：University of Agder
+- **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
 
 ## 3DGS Foundation Model
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering, **SIGGRAPH, 2023**. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
