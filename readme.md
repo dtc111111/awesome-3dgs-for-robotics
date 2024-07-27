@@ -12,6 +12,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [3DGS Survey](#3dgs-survey)
     
   - [3DGS Foundation Model](#3dgs-general-model)
+    -[Sparse View](#sparseview)
+    -[Compression](#compression)
 
   - [Perception](#perception)
     - [Semantic](#Semantic)
