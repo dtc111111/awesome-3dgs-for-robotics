@@ -13,7 +13,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
     
   - [3DGS Foundation Model](#3dgs-general-model)
     - [Sparse View](#sparseview)
-    - [Compression](#compression)
+    - [Accelerate and Compression](#acccompression)
     - [Physics](#physics)
 
   - [Perception](#perception)
