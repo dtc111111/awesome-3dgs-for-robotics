@@ -20,6 +20,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
     - [Semantic](#Semantic)
     - [Multi-Modal](#MM)
     - [Object Detection](#Object-Detection)
+    - [Relightable & complex environment & Rainy](#Relightable)
     
   - [Mapping & Localization](#slam)
     - [3D Reconstruction](#3D-Reconstruction)
