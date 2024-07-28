@@ -107,24 +107,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * CG3D: Compositional Generation for Text-to-3D, *arXiv*. [[Paper](https://arxiv.org/pdf/2311.17907.pdf)] [[Website](https://asvilesov.github.io/CG3D/)]
 * Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2304.08818.pdf)] [[Website](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)]
 * Text2Immersion: Generative Immersive Scene with 3D Gaussian, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.09242.pdf)] [[Website](https://ken-ouyang.github.io/text2immersion/index.html)]
-* 
+* Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.18482.pdf)] [[Website](https://buaavrcg.github.io/LEGaussians/)] [[Code](https://github.com/buaavrcg/LEGaussians)]
+* Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.03203.pdf)] [[Website](https://feature-3dgs.github.io/)] [[Code](https://github.com/ShijieZhou-UCLA/feature-3dgs)]
+* LangSplat: 3D Language Gaussian Splatting, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.16084.pdf)] [[Website](https://langsplat.github.io/)] [[Code](https://github.com/minghanqin/LangSplat)]
+* FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.01970.pdf)]
 
----
-* GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.09720.pdf)] [[Website](https://arxiv.org/abs/2401.09720)]
-* PSAvatar: A Point-based Morphable Shape Model for Real-Time Head Avatar Creation with 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.12900.pdf)] [[Website](https://arxiv.org/abs/2401.12900)]
-* Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.03723.pdf)] [[Website](http://shahrukhathar.github.io/2024/02/05/Rig3DGS.html)]
-* HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.06149.pdf)] [[Website](https://zhenglinzhou.github.io/HeadStudio-ProjectPage/)] [[Code](https://github.com/ZhenglinZhou/HeadStudio/)]
-* ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.06390.pdf)] [[Website](https://arxiv.org/abs/2402.06390)] [[Code](https://github.com/quereste/implicit-deepfake)]
-* GaussianHair: Hair Modeling and Rendering with Light-aware Gaussians, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.10483)] [[Website](https://arxiv.org/abs/2402.10483)]
-* GVA: Reconstructing Vivid 3D Gaussian Avatars from Monocular Videos, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.16607.pdf)] [[Website](https://3d-aigc.github.io/GEA/)]
-* SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2403.05087.pdf)]  [[Website](https://initialneil.github.io/SplattingAvatar)] [[Code](https://github.com/initialneil/SplattingAvatar)]
-* SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.18784)] [[Website](https://arxiv.org/abs/2403.18784)]
-* HAHA: Highly Articulated Gaussian Human Avatars with Textured Mesh Prior, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.01053)] [[Website](https://arxiv.org/abs/2404.01053)]
-* Gaussian Splatting Decoder for 3D‑aware Generative Adversarial Networks, **CVPR, 2024**. [[Paper](https://arxiv.org/abs/2404.10625)]  [[Website](https://florian-barthel.github.io/gaussian_decoder/index.html)] [[Code](https://github.com/fraunhoferhhi/gaussian_gan_decoder)]
-* GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.07991)]  [[Website](https://wenj.github.io/GoMAvatar/)] [[Code](https://github.com/wenj/GoMAvatar)]
-* OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.07991)]  [[Website](https://arxiv.org/abs/2404.07991)]
-* Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses, **CVPR, 2024**. [[Paper](https://arxiv.org/abs/2404.14410)]  [[Website](https://snuvclab.github.io/gtu/)] [[Code](https://github.com/snuvclab/gtu/)]
----
 
 ## Mapping & Localization
 ### 3D Reconstruction
