@@ -74,6 +74,21 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Hash3D: Training-free Acceleration for 3D Generation, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.06091)] [[Website](https://adamdad.github.io/hash3D/)] [[Code](https://github.com/Adamdad/hash3D)]
 
 ### Physics
+* Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting, *arXiv*. [[Paper](https://browse.arxiv.org/pdf/2401.15318.pdf)] [[Website](https://amysteriouscat.github.io/GaussianSplashing/)]
+* GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.01459.pdf)] [[Code](https://github.com/waczjoan/gaussian-mesh-splatting)]
+* Mesh-based Gaussian Splatting for Real-time Large-scale Deformation, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.04796.pdf)]
+* Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.09434)] [[Website](https://zlicheng.com/spring_gaus/)] [[Code](https://github.com/Colmar-zlicheng/Spring-Gaus)]
+* Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10050)] [[Website](https://slothfulxtx.github.io/TexGS/)] [[Code](https://github.com/slothfulxtx/Texture-GS)]
+* DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.17822)] [[Website](https://maturk.github.io/dn-splatter/)] [[Code](https://github.com/maturk/dn-splatter)]
+* Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.01223)] [[Website](https://feature-splatting.github.io/)] [[Code](https://github.com/vuer-ai/feature_splatting)]
+* Surface Reconstruction from Gaussian Splatting via Novel Stereo Views, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[Website](https://gs2mesh.github.io/)]
+* RaDe-GS: Rasterizing Depth in Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.01467)] [[Website](https://baowenz.github.io/radegs/)]
+* Trim 3D Gaussian Splatting for Accurate Geometry Representation, *arXiv*. [[Paper](https://arxiv.org/abs/2406.07499)] [[Website](https://trimgs.github.io/)] [[Code](https://github.com/YuxueYang1204/TrimGS)]
+* Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2406.11672)] [[Website](https://junhahyung.github.io/erankgs.github.io/)]
+* PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.12198.pdf)] [[Website](https://xpandora.github.io/PhysGaussian/)] [[Code](https://github.com/XPandora/PhysGaussian)]
+* SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.12775.pdf)] [[Website](https://imagine.enpc.fr/~guedona/sugar/)] [[Code](https://github.com/Anttwo/SuGaR)]
+* NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.00846.pdf)]
+
 
 ---
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering, **SIGGRAPH, 2023**. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
