@@ -110,7 +110,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.18482.pdf)] [[Website](https://buaavrcg.github.io/LEGaussians/)] [[Code](https://github.com/buaavrcg/LEGaussians)]
 * Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.03203.pdf)] [[Website](https://feature-3dgs.github.io/)] [[Code](https://github.com/ShijieZhou-UCLA/feature-3dgs)]
 * LangSplat: 3D Language Gaussian Splatting, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.16084.pdf)] [[Website](https://langsplat.github.io/)] [[Code](https://github.com/minghanqin/LangSplat)]
-* FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.01970.pdf)]
+* FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding, **IJCV**. [[Paper](https://arxiv.org/pdf/2401.01970.pdf)]
 
 
 ## Mapping & Localization
