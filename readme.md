@@ -9,7 +9,7 @@ This repo contains a curative list of **3D Gaussian Splatting papers relating to
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
----
+:---
 
 ## Overview
   - [3DGS Survey](#3dgs-survey)
