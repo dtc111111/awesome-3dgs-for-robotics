@@ -1,5 +1,5 @@
 <div align="center">    
-<img src="Images/image1.png" width="600" height="480" />   
+<img src="Images/image1.png" width="600" height="480" alt="Celebration"/>   
 
 # Awesome 3D Gaussian Splatting for Robotics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -8,7 +8,7 @@ This repo contains a curative list of **3D Gaussian Splatting papers relating to
 #### Please feel free to send me [pull requests](https://github.com/dtc111111/awesome-3dgs-for-robotics) or [email](mailto:dengtianchen@sjtu.edu.cn) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
-
+<div align="left">    
 ---
 
 ## Overview
