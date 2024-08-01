@@ -8,7 +8,8 @@ This repo contains a curative list of **3D Gaussian Splatting papers relating to
 #### Please feel free to send me [pull requests](https://github.com/dtc111111/awesome-3dgs-for-robotics) or [email](mailto:dengtianchen@sjtu.edu.cn) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
-<div align="left">    
+<div align="left">   
+  
 ---
 
 ## Overview
