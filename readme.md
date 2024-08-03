@@ -71,8 +71,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * End-to-End Rate-Distortion Optimized 3D Gaussian Representation, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2406.01597.pdf)] [[Website](https://arxiv.org/abs/2406.01597)] [[Code](https://github.com/USTC-IMCL/RDO-Gaussian)]
 * GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11324.pdf)]
 * Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11056.pdf)]
-* 
-  
+* Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2312.04820)] [[Code](https://github.com/yangxiaofeng/LODS)]
+* Deblurring 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2401.00834)] [[Code](https://github.com/benhenryL/Deblurring-3D-Gaussian-Splatting)]
+* BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2403.11831)] [[Code](https://github.com/WU-CVGL/BAD-Gaussians)]
+---
+
 ### Sparse View
 * AGG: Amortized Generative 3D Gaussians for Single Image to 3D, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.04099.pdf)] [[Website](https://ir1d.github.io/AGG/)]
 * Fast Dynamic 3D Object Generation from a Single-view Video, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.08742.pdf)] [[Website](https://fudan-zvg.github.io/Efficient4D/)] [[Code](https://github.com/fudan-zvg/Efficient4D)]
@@ -91,13 +94,14 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.20309.pdf)] [[Website](https://instantsplat.github.io/)]
 * Sp<sup>2</sup>360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors, *arXiv*. [[Paper](https://arxiv.org/pdf/2405.16517)]
 * SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.00206.pdf)] [[Website](https://formycat.github.io/SparseGS-Real-Time-360-Sparse-View-Synthesis-using-Gaussian-Splatting/)]
-* FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.00451.pdf)] [[Website](https://zehaozhu.github.io/FSGS/)] [[Coda](https://github.com/VITA-Group/FSGS)]
+* FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2312.00451.pdf)] [[Website](https://zehaozhu.github.io/FSGS/)] [[Coda](https://github.com/VITA-Group/FSGS)]
 * pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.12337.pdf)] [[Website](https://davidcharatan.com/pixelsplat/)] [[Coda](https://github.com/dcharatan/pixelsplat)]
 * Splatter Image: Ultra-Fast Single-View 3D Reconstruction, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.13150.pdf)] [[Website](https://szymanowiczs.github.io/splatter-image.html)] [[Coda](https://github.com/szymanowiczs/splatter-image)]
 * Active Implicit Reconstruction Using One-Shot View Planning, **ICRA, 2024**. [[Paper](https://arxiv.org/pdf/2310.00685)]
 * EndoSparse: Real-Time Sparse View Synthesis of Endoscopic Scenes using Gaussian Splatting, **MICCAI, 2024**. [[Paper](https://arxiv.org/abs/2407.01029)] [[Code](https://github.com/CUHK-AIM-Group/EndoSparse)]
 * Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction, **MICCAI, 2024**. [[Paper](https://arxiv.org/abs/2407.01090)] [[Code](https://github.com/xmed-lab/DIF-Gaussian)]
-
+* CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2405.12110)]
+* 6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2407.15484)] [[Code](https://github.com/mbortolon97/6dgs)]
 
 ### Accelerate & Compression
 * Hash3D: Training-free Acceleration for 3D Generation, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.06091)] [[Website](https://adamdad.github.io/hash3D/)] [[Code](https://github.com/Adamdad/hash3D)]
@@ -129,11 +133,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction, **ICML, 2024**. [[Paper](https://arxiv.org/pdf/2406.03697)]
 * FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting, **IJCAI, 2024**. [[Paper](https://arxiv.org/abs/2405.05768)]
 * Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis, **CVPR, 2024**. [[Paper](https://arxiv.org/abs/2401.02436)] [[Code](https://github.com/KeKsBoTer/c3dgs)]
-* 
-
-
-
-
+* Compact3D: Smaller and Faster Gaussian Splatting with Vector Quantization, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2311.18159)] [[Code](https://github.com/UCDvision/compact3d)]
+* HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2403.14530)] [[Code](https://github.com/YihangChen-ee/HAC)]
+* GaussReg: Fast 3D Registration with Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2407.05254)]
 
 ### Physics
 * Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting, *arXiv*. [[Paper](https://browse.arxiv.org/pdf/2401.15318.pdf)] [[Website](https://amysteriouscat.github.io/GaussianSplashing/)]
@@ -143,7 +145,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10050)] [[Website](https://slothfulxtx.github.io/TexGS/)] [[Code](https://github.com/slothfulxtx/Texture-GS)]
 * DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.17822)] [[Website](https://maturk.github.io/dn-splatter/)] [[Code](https://github.com/maturk/dn-splatter)]
 * Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.01223)] [[Website](https://feature-splatting.github.io/)] [[Code](https://github.com/vuer-ai/feature_splatting)]
-* Surface Reconstruction from Gaussian Splatting via Novel Stereo Views, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[Website](https://gs2mesh.github.io/)]
+* Surface Reconstruction from Gaussian Splatting via Novel Stereo Views, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2404.01810)] [[Website](https://gs2mesh.github.io/)]
 * RaDe-GS: Rasterizing Depth in Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.01467)] [[Website](https://baowenz.github.io/radegs/)]
 * Trim 3D Gaussian Splatting for Accurate Geometry Representation, *arXiv*. [[Paper](https://arxiv.org/abs/2406.07499)] [[Website](https://trimgs.github.io/)] [[Code](https://github.com/YuxueYang1204/TrimGS)]
 * Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2406.11672)] [[Website](https://junhahyung.github.io/erankgs.github.io/)]
@@ -161,6 +163,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ](https://semantic-gaussians.github.io/)]
 * Segment Any 3D Gaussians, *arXiv*. [[Paper](https://jumpat.github.io/SAGA/SAGA_paper.pdf)] [[Website](https://jumpat.github.io/SAGA/)] [[Code](https://github.com/Jumpat/SegAnyGAussians)]
 * 2D-Guided 3D Gaussian Segmentation, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.16047.pdf)]
+* GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2405.17429)] [[Code](https://github.com/huang-yh/GaussianFormer)]
+* Click-Gaussian: Interactive Segmentation to Any 3D Gaussians, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2407.11793)]
 
 ### Multi-Modal
 * Comp4D: LLM-Guided Compositional 4D Scene Generation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.16993.pdf)] [[Website](https://vita-group.github.io/Comp4D/)] [[Code](https://github.com/VITA-Group/Comp4D)]
@@ -187,6 +191,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.01970.pdf)]
 * GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
 * Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.09875.pdf)] [[Website](https://armlabstanford.github.io/touch-gs)]
+* ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2405.10508.pdf)]
+* GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2407.04237)]
+* Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2407.13584)] [[Code](https://github.com/LMozart/ECCV2024-GCS-BEG)]
 
 ### Relightable & Complex Environment & Rainy
 * DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10814)] [[Code](https://github.com/tyz1030/darkgs)]
@@ -197,7 +204,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing, *arXiv*. [[Paper](https://arxiv.org/pdf/2311.16043.pdf)] [[Website](https://nju-3dv.github.io/projects/Relightable3DGaussian/)] [[Code](https://github.com/NJU-3DV/Relightable3DGaussian)]
 * GS-IR: 3D Gaussian Splatting for Inverse Rendering, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.16473.pdf)] [[Website](https://github.com/lzhnb/GS-IR)] [[Code](https://github.com/lzhnb/GS-IR)]
 * GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.05133)] [[Website](https://3dgir.github.io/)]
-  
+
+
 
 ## Mapping & Localization
 ### 3D Reconstruction
@@ -209,12 +217,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11460)] [[Code](https://github.com/DensoITLab/Fed3DGS)]
 * GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10683)] [[Website](https://dingdingcai.github.io/gs-pose/)] [[Code](https://github.com/dingdingcai/GSPose)]
 * Creating Seamless 3D Maps Using Radiance Fields, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11364.pdf)]
-* CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.20159.pdf)] [[Website](https://dekuliutesla.github.io/citygs/)]
+* CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2403.20159.pdf)] [[Website](https://dekuliutesla.github.io/citygs/)]
 * MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.04026)]
 * On Scaling Up 3D Gaussian Splatting Training, *arXiv*. [[Paper](https://arxiv.org/abs/2406.18533)] [[Website](https://daohanlu.github.io/scaling-up-3dgs/)] [[Code](https://github.com/nyu-systems/Grendel-GS)]
 * COLMAP-Free 3D Gaussian Splatting, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.07504.pdf)]
-* 
-  
 
 ### Dynamic Scene Reconstruction
 * 4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.07472.pdf)] [[Website](https://snap-research.github.io/4Real/)]
@@ -238,7 +244,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.12365)] [[Website](https://zerg-overmind.github.io/GaussianFlow.github.io/)] [[Code](https://github.com/Zerg-Overmind/GaussianFlow)]
 * Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11447)] [[Website](https://arxiv.org/abs/2403.11447)]
 * Bridging 3D Gaussian and Mesh for Freeview Video Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11453)] [[Website](https://arxiv.org/abs/2403.11453)]
-* Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.03613)] [[Website](https://jeongminb.github.io/e-d3dgs/)] [[Code](https://github.com/JeongminB/E-D3DGS)]
+* Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2404.03613)] [[Website](https://jeongminb.github.io/e-d3dgs/)] [[Code](https://github.com/JeongminB/E-D3DGS)]
 * DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos, *arXiv*. [[Paper](https://arxiv.org/pdf/2405.02280)] [[Website](https://dreamscene4d.github.io/)] [[Code](https://github.com/dreamscene4d/dreamscene4d)]
 * 3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2404.06270)] [[Website](https://npucvr.github.io/GaGS/)]
 * Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, **3DV, 2024**. [[Paper](https://dynamic3dgaussians.github.io/paper.pdf)] [[Website](https://dynamic3dgaussians.github.io/)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
@@ -260,8 +266,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2403.01444.pdf)] [[Website](https://sjojok.github.io/3dgstream/)] [[Code](https://github.com/SJoJoK/3DGStream)]
 * Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements, **WACV, 2024**. [[Paper](https://arxiv.org/pdf/2310.19441)]
 * GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis, **SIGGRAPH, 2024**. [[Paper](https://arxiv.org/pdf/2405.19745)] [[Website](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)
-  
-
+* VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2407.02945)] [[Code](https://github.com/deepshwang/vegs)]
 
 ### Localization & Visual SLAM
 * GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10147)] [[Website](https://3d-aigc.github.io/GGRt/)]
@@ -288,7 +293,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.19614)] [[Code](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID)] [[Website](https://zeldafromheaven.github.io/TAMBRIDGE/)]
 * Splat-SLAM: Dense RGB-D SLAM via 3D Gaussian Splatting, **CVPR, 2022**. [[Paper](https://arxiv.org/pdf/2312.02126)] [[Code](https://github.com/spla-tam/SplaTAM)]
 
-
 ### Multimodal-SLAM
 * Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, **ICCV, 2023**. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)] [[Website](https://zju3dv.github.io/tof_slam/)] [[Code](https://github.com/zju3dv/tof_slam)]
 * NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.05807)]
@@ -310,7 +314,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GaussNav: Gaussian Splatting for Visual Navigation, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.11625.pdf)] [[Code](https://github.com/XiaohanLei/GaussNav)] [[Website](https://xiaohanlei.github.io/projects/GaussNav/)]
 * GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction, **IROS, 2024**. [[Paper](https://arxiv.org/pdf/2405.10142)] [[Video](https://www.bilibili.com/video/BV1e1421S7Kh/)]
 * HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.12722.pdf)] [[Code](https://xdimlab.github.io/hugs_website/)]
-* 
+
 
 
 
@@ -327,7 +331,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning, **ICLR, 2023**. [[Paper](https://openreview.net/forum?id=dnjZSPGmY5O)] [[Code](https://github.com/tomato1mule/edf)]
 * Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields, *arXiv*. [[Paper](https://arxiv.org/pdf/2311.16737.pdf)]
 * MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.02137.pdf)]
-* 
+
+
 
 ## Simulation & Human Interaction
 * Control4D: Efficient 4D Portrait Editing with Text, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2305.20082.pdf)] [[Website](https://control4darxiv.github.io/)]
@@ -346,7 +351,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.07807.pdf)] [[Website](https://kunhao-liu.github.io/StyleGaussian/)] [[Code](https://github.com/Kunhao-Liu/StyleGaussian)]
 * Gaussian Splatting in Style, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.08498)]
 * StylizedGS: Controllable Stylization for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.05220)]
-* 
+* 3DEgo: 3D Editing on the Go!, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2407.10102.pdf)]
+
 
 ## MISC
 ### 14. SyncTweedies: A General Generative Framework Based on Synchronized Diffusions   
@@ -411,6 +417,42 @@ We introduce Gaga, a framework that reconstructs and segments open-world 3D scen
 - **🏫 单位**：Saarland University ⟐ Max Planck Institute for Informatics
 - **🔗 链接**：[[中英摘要](./abs/2312.01196.md)] [[arXiv:2312.01196](https://arxiv.org/abs/2312.01196)] [Code]
 - **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [26] GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal
+- **🧑‍🔬 作者**：Yuxin Wang, Qianyi Wu, Guofeng Zhang, Dan Xu
+- **🏫 单位**：HKUST ⟐ Monash University ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2404.13679.md)] [[arXiv:2404.13679](https://arxiv.org/abs/2404.13679)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [27] TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting
+- **🧑‍🔬 作者**：Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Xin Ning, Jun Zhou, Lin Gu
+- **🏫 单位**：Beihang University ⟐ Chinese Academy of Sciences ⟐ Griffith University ⟐ RIKEN AIP ⟐ The University of Tokyo
+- **🔗 链接**：[[中英摘要](./abs/2404.15264.md)] [[arXiv:2404.15264](https://arxiv.org/abs/2404.15264)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [30] Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo
+- **🧑‍🔬 作者**：Tianqi Liu, Guangcong Wang, Shoukang Hu, Liao Shen, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu
+- **🏫 单位**：Huazhong University of Science and Technology ⟐  Nanyang Technological University ⟐  Great Bay University ⟐ Shanghai AI Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2405.12218.md)] [[arXiv:2405.12218](https://arxiv.org/abs/2405.12218)] [[Code](https://github.com/TQTQliu/MVSGaussian)]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [32] Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture
+- **🧑‍🔬 作者**：X. Li, Y. Cheng, X. Ren, H. Jia, D. Xu, W. Zhu, Y. Yan
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ Huawei Cloud Computing Technologies Co., Ltd
+- **🔗 链接**：[[中英摘要](./abs/2406.00440.md)] [[arXiv:2406.00440](https://arxiv.org/abs/2406.00440)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [33] SuperGaussian: Repurposing Video Models for 3D Super Resolution
+- **🧑‍🔬 作者**：Yuan Shen, Duygu Ceylan, Paul Guerrero, Zexiang Xu, Niloy J. Mitra, Shenlong Wang, Anna Früstück
+- **🏫 单位**：University of Illinois at Urbana-Champaign ⟐ Adobe Research ⟐ University College London
+- **🔗 链接**：[[中英摘要](./abs/2406.00609.md)] [[arXiv:2406.00609](https://arxiv.org/abs/2406.00609)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [38] MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition
+- **🧑‍🔬 作者**：Aggelina Chatziagapi, Grigorios G. Chrysos, Dimitris Samaras
+- **🏫 单位**：Stony Brook University ⟐ University of Wisconsin-Madison
+- **🔗 链接**：[[中英摘要](./abs/2407.07284.md)] [[arXiv:2407.07284](https://arxiv.org/abs/2407.07284)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 
 ---
