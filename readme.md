@@ -18,7 +18,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [3DGS Foundation Model](#3dgs-general-model)
     - [Sparse View](#sparseview)
     - [Accelerate & Compression](#acccompression)
-    - [Physics](#physics)
+    - [Geometry & Physics](#geophysics)
 
   - [Perception](#perception)
     - [Semantic](#Semantic)
@@ -66,10 +66,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## 3DGS Foundation Model
 ---
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering, **SIGGRAPH, 2023**. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
-* 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, **SIGGRAPH, 2024**. [[Paper](https://arxiv.org/pdf/2403.17888)] [[Website](https://surfsplatting.github.io/)]  [[Code](https://github.com/hbb1/2d-gaussian-splatting)]
 * Mip-splatting Alias-free 3d gaussian splatting, **CVPR, 2024**. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)] [[Website](https://niujinshuchong.github.io/mip-splatting/)]  [[Code](https://github.com/autonomousvision/mip-splatting)]
 * End-to-End Rate-Distortion Optimized 3D Gaussian Representation, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2406.01597.pdf)] [[Website](https://arxiv.org/abs/2406.01597)] [[Code](https://github.com/USTC-IMCL/RDO-Gaussian)]
-* GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11324.pdf)]
 * Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11056.pdf)]
 * Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2312.04820)] [[Code](https://github.com/yangxiaofeng/LODS)]
 * Deblurring 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2401.00834)] [[Code](https://github.com/benhenryL/Deblurring-3D-Gaussian-Splatting)]
@@ -140,7 +138,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Compact 3D Gaussian Representation for Radiance Field, **CVPR, 2024**. [[Paper](https://arxiv.org/abs/2311.13681)] [[Code](https://github.com/maincold2/Compact-3DGS)]
 * Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2405.12218)] [[Code](https://github.com/TQTQliu/MVSGaussian)]
 
-### Physics
+### Geometry & Physics
+* 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, **SIGGRAPH, 2024**. [[Paper](https://arxiv.org/pdf/2403.17888)] [[Website](https://surfsplatting.github.io/)]  [[Code](https://github.com/hbb1/2d-gaussian-splatting)]
 * Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting, *arXiv*. [[Paper](https://browse.arxiv.org/pdf/2401.15318.pdf)] [[Website](https://amysteriouscat.github.io/GaussianSplashing/)]
 * GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.01459.pdf)] [[Code](https://github.com/waczjoan/gaussian-mesh-splatting)]
 * Mesh-based Gaussian Splatting for Real-time Large-scale Deformation, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.04796.pdf)]
@@ -156,7 +155,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.12775.pdf)] [[Website](https://imagine.enpc.fr/~guedona/sugar/)] [[Code](https://github.com/Anttwo/SuGaR)]
 * NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.00846.pdf)]
 * Projecting Radiance Fields to Mesh Surfaces, **SIGGRAPH, 2024**. [[Paper](https://arxiv.org/abs/2406.11570)]
-
+* GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11324.pdf)]
 
 
 
