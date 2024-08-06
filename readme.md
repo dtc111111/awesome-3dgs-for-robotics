@@ -340,6 +340,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.02137.pdf)]
 * Reinforcement Learning with Generalizable Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.07950.pdf)]
 * GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
+* 3D-Aware Manipulation with Object-Centric Gaussian Splatting, *arXiv*. [[Paper](https://object-aware-gaussian.github.io/assets/pdf/corl.pdf)] [[Website](https://object-aware-gaussian.github.io/)]
+* Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.15149)]
+* ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.08321)]
+* Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.10788)]
+* Radiance Fields for Robotic Teleoperation, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.20194)]
 
 
 ## Simulation & Human Interaction
