@@ -63,6 +63,13 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 - **🏫 Institute**：University of Agder
 - **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
 
+
+#### [S5] Survey on Fundamental Deep Learning 3D Reconstruction Techniques
+- **🧑‍🔬 Author**：Yonge Bai, LikHang Wong, TszYin Twan
+- **🏫 Institute**：McMaster University ⟐  City University of Hong Kong
+- **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2407.08137)]
+
+
 ## 3DGS Foundation Model
 ---
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering, **SIGGRAPH, 2023**. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
