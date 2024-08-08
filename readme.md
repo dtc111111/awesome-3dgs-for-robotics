@@ -76,11 +76,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 - **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2407.17418)]
 
 
-#### [S7] A Benchmark for Gaussian Splatting Compression and Quality Assessment Study
-- **🧑‍🔬 Author**：Qi Yang, Kaifa Yang, Yuke Xing, Yiling Xu, Zhu Li
-- **🏫 Institute**：University of Missouri ⟐  Shanghai Jiao Tong University
-- **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2407.14197)]
-
 
 
 ## 3DGS Foundation Model
