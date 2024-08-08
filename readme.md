@@ -328,6 +328,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.02751.pdf)]
 * GaussNav: Gaussian Splatting for Visual Navigation, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.11625.pdf)] [[Code](https://github.com/XiaohanLei/GaussNav)] [[Website](https://xiaohanlei.github.io/projects/GaussNav/)]
 * GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction, **IROS, 2024**. [[Paper](https://arxiv.org/pdf/2405.10142)] [[Video](https://www.bilibili.com/video/BV1e1421S7Kh/)]
+* Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs, *arXiv*. [[Paper](https://arxiv.org/abs/2407.10743)]
 
 
 
