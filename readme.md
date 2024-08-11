@@ -17,24 +17,23 @@ If you find this repository useful, please consider [citing](#citation) and STAR
     
   - [3DGS General Model](#3dgs-general-model)
     - [Sparse View](#sparse-view)
-    - [Accelerate & Compression](#Accelerate-&-Compression)
-    - [Geometry & Physics](#Geometry-&-Physics)
+    - [Accelerate & Compression](#accelerate--compression)
+    - [Geometry & Physics](#Geometry--Physics)
 
   - [Perception](#perception)
-    - [Semantic](#Semantic)
-    - [Multi-Modal](#MM)
-    - [Object Detection](#Object-Detection)
-    - [Relightable & Complex Environment & Rainy](#Relightable)
+    - [Semantic](#semantic)
+    - [Multi-Modal](#Multi-Modal)
+    - [Relightable & Complex Environment & Rainy](#relightable--complex-environment--rainy)
     
-  - [Mapping & Localization](#slam)
-    - [3D Reconstruction](#3D-Reconstruction)
-    - [Dynamic Scene Reconstruction](#Dynamic-Reconstruction)
-    - [Localization & Visual SLAM](#Visual-SLAM)
-    - [Multimodal-SLAM](#Multimodal-SLAM)
+  - [Mapping & Localization](#mapping--localization)
+    - [3D Reconstruction](#3d-reconstruction)
+    - [Dynamic Scene Reconstruction](#dynamic-scene-reconstruction)
+    - [Localization & Visual SLAM](#localization--visual-slam)
+    - [Multimodal-SLAM](#multimodal-slam)
       
-  - [Planning & Navigation](#planningnavigation)
-  - [Manipulation & RL](#manipulationrl)
-  - [Simulation & Human Interaction](#editing)
+  - [Planning & Navigation](#planning--navigation)
+  - [Manipulation & RL](#manipulation--rl)
+  - [Simulation & Human Interaction](#simulation--generation)
 
   - [Citation](#citation)
 
