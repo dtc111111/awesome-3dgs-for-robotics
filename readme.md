@@ -15,7 +15,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Overview
   - [3DGS Survey](#3dgs-survey)
     
-  - [3DGS Foundation Model](#3dgs-general-model)
+  - [3DGS General Model](#3dgs-general-model)
     - [Sparse View](#sparseview)
     - [Accelerate & Compression](#acccompression)
     - [Geometry & Physics](#geophysics)
@@ -78,7 +78,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 
 
-## 3DGS Foundation Model
+## 3DGS General Model
 ---
 * 3D Gaussian Splatting for Real-Time Radiance Field Rendering, **SIGGRAPH, 2023**. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
 * Mip-splatting Alias-free 3d gaussian splatting, **CVPR, 2024**. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)] [[Website](https://niujinshuchong.github.io/mip-splatting/)]  [[Code](https://github.com/autonomousvision/mip-splatting)]
