@@ -227,6 +227,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.17470.pdf)]
 * A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.01269.pdf)]
 * SceneTeller: Language-to-3D Scene Generation, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.20727.pdf)]
+* Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion, *arXiv*.[[Paper](https://arxiv.org/abs/2406.02972)]
 
 ### Relightable & Complex Environment & Rainy
 * DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10814)] [[Code](https://github.com/tyz1030/darkgs)]
