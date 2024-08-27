@@ -60,7 +60,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 #### [S4] Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review
 - **🧑‍🔬 Author**：Anurag Dalal, Daniel Hagen, Kjell G. Robbersmyr, Kristian Muri Knausgård
 - **🏫 Institute**：University of Agder
-- **🔗 Link**：[[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
+- **🔗 Link**：IEEE Access [[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
 
 
 #### [S5] Survey on Fundamental Deep Learning 3D Reconstruction Techniques
