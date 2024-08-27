@@ -378,6 +378,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.08321)]
 * Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.10788)]
 * Radiance Fields for Robotic Teleoperation, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.20194)]
+* Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling.[[Github](https://gaussian-gbnd.github.io/)]
 
 
 ## Simulation & Generation
