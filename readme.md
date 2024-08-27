@@ -48,7 +48,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 #### [S2] 3D Gaussian as a New Vision Era: A Survey
 - **🧑‍🔬 Author**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
 - **🏫 Institute**：Fudan University ⟐ Nanyang Technological University
-- **🔗 Link**：IEEE Transactions on Visualization and Computer Graphics 2024[[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
+- **🔗 Link**：[[IEEE Transactions on Visualization and Computer Graphics 2024](https://arxiv.org/abs/2402.07181)]
 
 
 #### [S3] Recent Advances in 3D Gaussian Splatting
@@ -60,7 +60,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 #### [S4] Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review
 - **🧑‍🔬 Author**：Anurag Dalal, Daniel Hagen, Kjell G. Robbersmyr, Kristian Muri Knausgård
 - **🏫 Institute**：University of Agder
-- **🔗 Link**：IEEE Access [[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
+- **🔗 Link**：[[IEEE Access](https://arxiv.org/abs/2405.03417)]
 
 
 #### [S5] Survey on Fundamental Deep Learning 3D Reconstruction Techniques
