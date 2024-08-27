@@ -48,7 +48,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 #### [S2] 3D Gaussian as a New Vision Era: A Survey
 - **🧑‍🔬 Author**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
 - **🏫 Institute**：Fudan University ⟐ Nanyang Technological University
-- **🔗 Link**：[[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
+- **🔗 Link**：IEEE Transactions on Visualization and Computer Graphics 2024[[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
 
 
 #### [S3] Recent Advances in 3D Gaussian Splatting
