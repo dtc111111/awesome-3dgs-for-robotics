@@ -99,7 +99,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ---
 
 ### Sparse View
-* AGG: Amortized Generative 3D Gaussians for Single Image to 3D, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.04099.pdf)] [[Website](https://ir1d.github.io/AGG/)]
 * Fast Dynamic 3D Object Generation from a Single-view Video, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.08742.pdf)] [[Website](https://fudan-zvg.github.io/Efficient4D/)] [[Code](https://github.com/fudan-zvg/Efficient4D)]
 * GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.10259.pdf)] [[Website](https://gaussianobject.github.io/)] [[Code](https://github.com/GaussianObject/GaussianObject)]
 * LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.05054.pdf)] [[Website](https://me.kiui.moe/lgm/)] [[Code](https://github.com/3DTopia/LGM)]
@@ -438,6 +437,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Localized Gaussian Splatting Editing with Contextual Awareness, *arXiv, 2024*. [[Paper](https://arxiv.org/abs/2408.00083)]
 * 3D Gaussian Editing with A Single Image, *arXiv*. [[Paper](https://arxiv.org/abs/2408.07540)]
 * G-Style: Stylized Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2408.15695)]
+* AGG: Amortized Generative 3D Gaussians for Single Image to 3D, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.04099.pdf)] [[Website](https://ir1d.github.io/AGG/)]
 ---
 ## Citation
 
