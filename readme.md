@@ -122,7 +122,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * EndoSparse: Real-Time Sparse View Synthesis of Endoscopic Scenes using Gaussian Splatting, **MICCAI, 2024**. [[Paper](https://arxiv.org/abs/2407.01029)] [[Code](https://github.com/CUHK-AIM-Group/EndoSparse)]
 * Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction, **MICCAI, 2024**. [[Paper](https://arxiv.org/abs/2407.01090)] [[Code](https://github.com/xmed-lab/DIF-Gaussian)]
 * CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2405.12110)]
-* 6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2407.15484)] [[Code](https://github.com/mbortolon97/6dgs)]
 * LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.00254)]
 * Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.04831)]
 * ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.16767)]
@@ -353,6 +352,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * OG-Mapping: Octree-based Structured 3DGaussians for Online Dense Mapping, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.17223)]
 * 3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11577)] [[Website](https://arxiv.org/abs/2403.11577)]
 * COLMAP-Free 3D Gaussian Splatting, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.07504.pdf)]
+* 6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2407.15484)] [[Code](https://github.com/mbortolon97/6dgs)]
 
 ### Multimodal-SLAM
 * Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, **ICCV, 2023**. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)] [[Website](https://zju3dv.github.io/tof_slam/)] [[Code](https://github.com/zju3dv/tof_slam)]
