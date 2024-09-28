@@ -19,6 +19,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [3DGS Survey](#3dgs-survey)
     
   - [3DGS General Model](#3dgs-general-model)
+    - [Photorealistic](#photorealistic)
     - [Sparse View](#sparse-view)
     - [Accelerate & Compression](#accelerate--compression)
     - [Geometry & Physics](#Geometry--Physics)
