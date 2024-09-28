@@ -104,7 +104,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.05054.pdf)] [[Website](https://me.kiui.moe/lgm/)] [[Code](https://github.com/3DTopia/LGM)]
 * IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.08682.pdf)] [[Website](https://arxiv.org/abs/2402.08682)]
 * FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10242.pdf)] [[Website](https://qjfeng.net/FDGaussian)]
-* Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.13271.pdf)] [[Website](https://pku-yuangroup.github.io/repaint123/)] [[Coda](https://github.com/PKU-YuanGroup/repaint123)]
 * Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.13398.pdf)] [[Website](https://robot0321.github.io/DepthRegGS/index.html)] [[Coda](https://github.com/robot0321/DepthRegularizedGS)]
 * DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2403.06912.pdf)] [[Website](https://fictionarry.github.io/DNGaussian/)] [[Coda](https://github.com/Fictionarry/DNGaussian)]
 * MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.14627)] [[Website](https://donydchen.github.io/mvsplat/)] [[Coda](https://github.com/donydchen/mvsplat)]
@@ -438,6 +437,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * 3D Gaussian Editing with A Single Image, *arXiv*. [[Paper](https://arxiv.org/abs/2408.07540)]
 * G-Style: Stylized Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2408.15695)]
 * AGG: Amortized Generative 3D Gaussians for Single Image to 3D, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.04099.pdf)] [[Website](https://ir1d.github.io/AGG/)]
+* Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.13271.pdf)] [[Website](https://pku-yuangroup.github.io/repaint123/)] [[Coda](https://github.com/PKU-YuanGroup/repaint123)]
 ---
 ## Citation
 
