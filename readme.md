@@ -392,6 +392,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes, **IROS, 2024**. [[Paper](https://arxiv.org/pdf/2404.04026.pdf)]
 * Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2404.06926.pdf)]
 * Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.16944.pdf)]
+* GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.19228)]
+
 
 
 
