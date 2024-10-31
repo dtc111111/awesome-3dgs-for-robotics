@@ -214,7 +214,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2405.17429)] [[Code](https://github.com/huang-yh/GaussianFormer)]
 * Click-Gaussian: Interactive Segmentation to Any 3D Gaussians, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2407.11793)]
 * Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.02370)]
-* GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane, *arXiv*. [[Paper](https://arxiv.org/pdf/2405.17596)]
+* GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane, **MM**. [[Paper](https://arxiv.org/pdf/2405.17596)]
 * Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery, *arXiv*. [[Paper](https://arxiv.org/pdf/2405.12477)]
 * SlingBAG: Sliding ball adaptive growth algorithm with differentiable radiation enables super-efficient iterative 3D photoacoustic image reconstruction, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.11781)]
 * GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.14108)]
