@@ -252,7 +252,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Gaussian Shadow Casting for Neural Characters, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2401.06116.pdf)]
 * SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10427.pdf)]
 * Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.15704)] [[Website](https://eastbeanzhang.github.io/GS-W/)] [[Code](https://github.com/EastbeanZhang/Gaussian-Wild)]
-* Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing, *arXiv*. [[Paper](https://arxiv.org/pdf/2311.16043.pdf)] [[Website](https://nju-3dv.github.io/projects/Relightable3DGaussian/)] [[Code](https://github.com/NJU-3DV/Relightable3DGaussian)]
+* Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing, ECCV 2024. [[Paper](https://arxiv.org/pdf/2311.16043.pdf)] [[Website](https://nju-3dv.github.io/projects/Relightable3DGaussian/)] [[Code](https://github.com/NJU-3DV/Relightable3DGaussian)]
 * GS-IR: 3D Gaussian Splatting for Inverse Rendering, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.16473.pdf)] [[Website](https://github.com/lzhnb/GS-IR)] [[Code](https://github.com/lzhnb/GS-IR)]
 * GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.05133)] [[Website](https://3dgir.github.io/)]
 * LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.04474)]
