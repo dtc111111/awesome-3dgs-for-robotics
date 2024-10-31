@@ -261,7 +261,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.09130)]
 * Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.10335)]
 * SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.17345)]
-* Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.08042)]
+* Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis, ECCV 2024. [[Paper](https://arxiv.org/pdf/2409.08042)]
 * ThermalGaussian: Thermal 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.07200)]
 
 
