@@ -256,7 +256,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GS-IR: 3D Gaussian Splatting for Inverse Rendering, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.16473.pdf)] [[Website](https://github.com/lzhnb/GS-IR)] [[Code](https://github.com/lzhnb/GS-IR)]
 * GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.05133)] [[Website](https://3dgir.github.io/)]
 * LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.04474)]
-* PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.03538)]
+* PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting, MM. [[Paper](https://arxiv.org/pdf/2408.03538)]
 * DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.11540)]
 * Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.09130)]
 * Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.10335)]
