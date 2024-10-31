@@ -241,9 +241,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Gaga: Group Any Gaussians via 3D-aware Memory Bank, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.07977.pdf)] [[Website](https://www.gaga.gallery/)] [[Code](https://github.com/weijielyu/Gaga)]
 * EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting, **ICML, 2024**. [[Paper](https://arxiv.org/pdf/2405.14959.pdf)]
 * FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.01916.pdf)]
-* A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.01269.pdf)]
+* A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness, **MM**. [[Paper](https://arxiv.org/pdf/2408.01269.pdf)]
 * Event3DGS: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion, *arXiv*. [[Paper](https://arxiv.org/abs/2406.02972)]
-* Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot, *arXiv*. [[Paper](https://arxiv.org/abs/2409.18108)]
+* Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot, **IROS 2024**. [[Paper](https://arxiv.org/abs/2409.18108)]
 * EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.13520.pdf)]
 
 ### Relightable & Complex Environment & Rainy
