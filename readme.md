@@ -227,7 +227,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally, *arXiv*. [[Paper](https://arxiv.org/abs/2409.08270)]
 * Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality, *arXiv*. [[Paper](https://arxiv.org/abs/2409.15959)]
 * SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation, *arXiv*. [[Paper](https://arxiv.org/abs/2409.11682)]
-* Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks, *arXiv*. [[Paper](https://arxiv.org/abs/2409.11681)]
+* Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks, **SIGGRAPH Asia**. [[Paper](https://arxiv.org/abs/2409.11681)]
 * OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding, **NIPS, 2024**. [[Paper](https://3d-aigc.github.io/OpenGaussian/)]
 
 
