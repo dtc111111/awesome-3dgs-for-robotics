@@ -247,7 +247,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.13520.pdf)]
 
 ### Relightable & Complex Environment & Rainy
-* DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10814)] [[Code](https://github.com/tyz1030/darkgs)]
+* DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark, ICRA 2024 Workshop. [[Paper](https://arxiv.org/pdf/2403.10814)] [[Code](https://github.com/tyz1030/darkgs)]
 * RAIN-GS: Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.09413)] [[Website](https://ku-cvlab.github.io/RAIN-GS/)] [[Code](https://github.com/KU-CVLAB/RAIN-GS)]
 * Gaussian Shadow Casting for Neural Characters, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2401.06116.pdf)]
 * SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians, ECCV 2024 workshop. [[Paper](https://arxiv.org/pdf/2403.10427.pdf)]
