@@ -103,7 +103,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ### Sparse View
 * Fast Dynamic 3D Object Generation from a Single-view Video, *arXiv*. [[Paper](https://arxiv.org/pdf/2401.08742.pdf)] [[Website](https://fudan-zvg.github.io/Efficient4D/)] [[Code](https://github.com/fudan-zvg/Efficient4D)]
-* GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.10259.pdf)] [[Website](https://gaussianobject.github.io/)] [[Code](https://github.com/GaussianObject/GaussianObject)]
+* GaussianObject: High-Quality 3D Object Reconstruction from Four Views with Gaussian Splatting, **ACM Transactions on Graphics**. [[Paper](https://arxiv.org/pdf/2402.10259.pdf)] [[Website](https://gaussianobject.github.io/)] [[Code](https://github.com/GaussianObject/GaussianObject)]
 * LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.05054.pdf)] [[Website](https://me.kiui.moe/lgm/)] [[Code](https://github.com/3DTopia/LGM)]
 * IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation, *arXiv*. [[Paper](https://arxiv.org/pdf/2402.08682.pdf)] [[Website](https://arxiv.org/abs/2402.08682)]
 * FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10242.pdf)] [[Website](https://qjfeng.net/FDGaussian)]
@@ -118,8 +118,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Sp<sup>2</sup>360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors, *arXiv*. [[Paper](https://arxiv.org/pdf/2405.16517)]
 * SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.00206.pdf)] [[Website](https://formycat.github.io/SparseGS-Real-Time-360-Sparse-View-Synthesis-using-Gaussian-Splatting/)]
 * FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2312.00451.pdf)] [[Website](https://zehaozhu.github.io/FSGS/)] [[Coda](https://github.com/VITA-Group/FSGS)]
-* pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.12337.pdf)] [[Website](https://davidcharatan.com/pixelsplat/)] [[Coda](https://github.com/dcharatan/pixelsplat)]
-* Splatter Image: Ultra-Fast Single-View 3D Reconstruction, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.13150.pdf)] [[Website](https://szymanowiczs.github.io/splatter-image.html)] [[Coda](https://github.com/szymanowiczs/splatter-image)]
+* pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.12337.pdf)] [[Website](https://davidcharatan.com/pixelsplat/)] [[Code](https://github.com/dcharatan/pixelsplat)]
+* Splatter Image: Ultra-Fast Single-View 3D Reconstruction, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.13150.pdf)] [[Website](https://szymanowiczs.github.io/splatter-image.html)] [[Code](https://github.com/szymanowiczs/splatter-image)]
 * EndoSparse: Real-Time Sparse View Synthesis of Endoscopic Scenes using Gaussian Splatting, **MICCAI, 2024**. [[Paper](https://arxiv.org/abs/2407.01029)] [[Code](https://github.com/CUHK-AIM-Group/EndoSparse)]
 * Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction, **MICCAI, 2024**. [[Paper](https://arxiv.org/abs/2407.01090)] [[Code](https://github.com/xmed-lab/DIF-Gaussian)]
 * CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2405.12110)]
