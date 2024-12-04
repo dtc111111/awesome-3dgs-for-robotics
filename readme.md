@@ -135,8 +135,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs, **BMVC 2024**. [[Paper](https://arxiv.org/abs/2409.07456)]
 * Frequency-based View Selection in Gaussian Splatting Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2409.16470)]
 * GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2407.04237)]
-* 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors, *arXiv*. [[Paper](https://arxiv.org/abs/2410.16266)]
-* Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis, *arXiv*. [[Paper](https://arxiv.org/abs/2410.18822)]
+* 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors, **NeurIPS 2024**. [[Paper](https://arxiv.org/abs/2410.16266)]
+* Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis, **NeurIPS 2024**. [[Paper](https://arxiv.org/abs/2410.18822)]
 
 ### Accelerate & Compression
 * Hash3D: Training-free Acceleration for 3D Generation, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.06091)] [[Website](https://adamdad.github.io/hash3D/)] [[Code](https://github.com/Adamdad/hash3D)]
