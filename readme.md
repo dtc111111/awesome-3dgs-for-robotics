@@ -87,7 +87,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ### Photorealistic
 * Mip-splatting Alias-free 3d gaussian splatting, **CVPR, 2024**. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)] [[Website](https://niujinshuchong.github.io/mip-splatting/)]  [[Code](https://github.com/autonomousvision/mip-splatting)]
 * End-to-End Rate-Distortion Optimized 3D Gaussian Representation, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2406.01597.pdf)] [[Website](https://arxiv.org/abs/2406.01597)] [[Code](https://github.com/USTC-IMCL/RDO-Gaussian)]
-* Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11056.pdf)]
+* Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration, **ECCV 2024**. [[Paper](https://arxiv.org/pdf/2403.11056.pdf)]
 * Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2312.04820)] [[Code](https://github.com/yangxiaofeng/LODS)]
 * Deblurring 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2401.00834)] [[Code](https://github.com/benhenryL/Deblurring-3D-Gaussian-Splatting)]
 * BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2403.11831)] [[Code](https://github.com/WU-CVGL/BAD-Gaussians)]
