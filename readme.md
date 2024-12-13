@@ -102,6 +102,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Gaussian Splatting with Localized Points Management, *arXiv*. [[Paper](https://arxiv.org/abs/2406.04251)]
 * GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling, *arXiv*. [[Paper](https://arxiv.org/abs/2409.12954)]
 * 3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2408.03753)]
+* SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.19615)] [[Website](https://kevinsong729.github.io/project-pages/SA-GS/)] [[Code](https://github.com/zsy1987/SA-GS/)]
 
 ---
 
@@ -160,7 +161,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.14166.pdf)]
 * Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.15530.pdf)]
 * Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.17898)] [[Website](https://city-super.github.io/octree-gs/)] [[Code](https://github.com/city-super/Octree-GS)]
-* SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.19615)] [[Website](https://kevinsong729.github.io/project-pages/SA-GS/)] [[Code](https://github.com/zsy1987/SA-GS/)]
 * OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images, **WACV 2025**. [[Paper](https://arxiv.org/pdf/2404.03202)]
 * GSCore: Efficient Radiance Field Rendering via Architectural Support for 3D Gaussian Splatting, **ASPLOS 2024**. [[Paper](https://jaewoong.org/pubs/asplos24-gscore.pdf)]
 * Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2312.00109.pdf)] [[Website](https://city-super.github.io/scaffold-gs/)] [[Code](https://github.com/city-super/Scaffold-GS)]
