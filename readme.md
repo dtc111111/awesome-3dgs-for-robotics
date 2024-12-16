@@ -184,6 +184,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation, **ECCV 2024**. [[Paper](https://arxiv.org/abs/2409.09756)]
 * VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points, *arXiv*. [[Paper](https://arxiv.org/abs/2410.17932)]
 * Sort-free Gaussian Splatting via Weighted Sum Rendering, *arXiv*. [[Paper](https://arxiv.org/abs/2410.18931)]
+* LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS, **NeurIPS 2024**. [[Paper](https://arxiv.org/abs/2311.17245)] [[Code](https://lightgaussian.github.io/)]
 
 ### Geometry & Physics
 * 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, **SIGGRAPH, 2024**. [[Paper](https://arxiv.org/pdf/2403.17888)] [[Website](https://surfsplatting.github.io/)]  [[Code](https://github.com/hbb1/2d-gaussian-splatting)]
