@@ -341,7 +341,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.12722.pdf)] [[Code](https://xdimlab.github.io/hugs_website/)]
 * SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.20079.pdf)] [[Website](https://arxiv.org/abs/2403.20079)]
 * Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.11343.pdf)]
-* GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.11085.pdf)]
+* GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting, *ICLR, 2025*. [[Paper](https://openreview.net/forum?id=mP7uV59iJM)] [[code]](https://github.com/XRIM-Lab/GS-CPR)
 * GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.12677.pdf)]
 * LoopSplat: Loop Closure by Registering 3D Gaussian Splats, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.10154.pdf)]
 * FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.07967.pdf)]
