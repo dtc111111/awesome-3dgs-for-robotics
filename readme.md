@@ -107,6 +107,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring, *arXiv*. [[Paper](https://arxiv.org/abs/2410.23658)]
 * GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2411.19454)]
 * SfM-Free 3D Gaussian Splatting via Hierarchical Training, *arXiv*. [[Paper](https://arxiv.org/abs/2412.01553)]
+* Reflective Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.19282)]
 
 
 ---
@@ -322,6 +323,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * SparseLGS: Sparse View Language Embedded Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.02245)]
 * Occam's LGS: A Simple Approach for Language Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.01807)]
 * ChatSplat: 3D Conversational Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.00734)]
+* CLIP-GS: Unifying Vision - Language Representation with 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.19142)]
 
   
 
@@ -463,6 +465,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians, *arXiv*. [[Paper](https://arxiv.org/abs/2412.02493)]
 * Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps, *arXiv*. [[Paper](https://arxiv.org/abs/2412.04457)]
 * Urban4D: Semantic-Guided 4D Gaussian Splatting for Urban Scene Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2412.03473)]
+* KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences, *arXiv*. [[Paper](https://arxiv.org/abs/2412.20767)]
 
 
 
@@ -521,6 +524,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.01217)]
 * FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.00682)]
 * NeRF and Gaussian Splatting SLAM in the Wild, *arXiv*. [[Paper](https://arxiv.org/abs/2412.03263)]
+
 
 ### Multimodal-SLAM
 * Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, **ICCV, 2023**. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)] [[Website](https://zju3dv.github.io/tof_slam/)] [[Code](https://github.com/zju3dv/tof_slam)]
