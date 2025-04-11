@@ -167,6 +167,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2412.09573)]
 * GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing, *arXiv*. [[Paper](https://arxiv.org/abs/2412.05908)]
 * TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting from Sparse Views, *arXiv*. [[Paper](https://arxiv.org/abs/2412.10051)]
+* Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images, *arXiv*. [[Paper](https://arxiv.org/abs/2412.19518)]
+* Gaussian Masked Autoencoders, *arXiv*. [[Paper](https://arxiv.org/abs/2501.03229)]
+* FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency, *arXiv*. [[Paper](https://arxiv.org/abs/2501.04628)]
 
 
 
@@ -227,6 +230,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Faster and Better 3D Splatting via Group Training, *arXiv*. [[Paper](https://arxiv.org/abs/2412.07608)]
 * Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes, *arXiv*. [[Paper](https://arxiv.org/abs/2412.05700)]
 * QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos, *arXiv*. [[Paper](https://arxiv.org/abs/2412.04469)]
+* SG-Splatting: Accelerating 3D Gaussian Splatting with Spherical Gaussians, *arXiv*. [[Paper](https://arxiv.org/abs/2501.00342)]
+* Locality-aware Gaussian Compression for Fast and High-quality Rendering, *arXiv*. [[Paper](https://arxiv.org/abs/2501.05757)]
 
 
 
@@ -350,6 +355,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering, *arXiv*. [[Paper](https://arxiv.org/abs/2411.07478)]
 * Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video, *arXiv*. [[Paper](https://arxiv.org/abs/2412.06424)]
 * ULSR-GS: Ultra Large-scale Surface Reconstruction Gaussian Splatting with Multi-View Geometric Consistency, *arXiv*. [[Paper](https://arxiv.org/abs/2412.01402)]
+* FlameGS: Reconstruct flame light field via Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.19841)]
+* WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting, *arXiv*. [[Paper](https://www.arxiv.org/abs/2412.18862)]
 
 
 
@@ -389,6 +396,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings, *arXiv*. [[Paper](https://arxiv.org/abs/2410.20686)]
 * Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2412.04887)]
 * Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework, *arXiv*. [[Paper](https://arxiv.org/abs/2412.05546)]
+* KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences, *arXiv*. [[Paper](https://arxiv.org/abs/2412.20767)]
+* MVS-GS: High - Quality 3D Gaussian Splatting Mapping via Online Multi - View Stereo, *arXiv*. [[Paper](https://arxiv.org/abs/2412.19130)]
+* SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2501.07015)]
+* CrossView-GS: Cross-view Gaussian Splatting For Large - scale Scene Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2501.01695)]
+* PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic - Aware Grouping, *arXiv*. [[Paper](https://arxiv.org/abs/2501.01677)]
 
 ### Dynamic Scene Reconstruction
 * 4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.07472.pdf)] [[Website](https://snap-research.github.io/4Real/)]
@@ -466,6 +478,14 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps, *arXiv*. [[Paper](https://arxiv.org/abs/2412.04457)]
 * Urban4D: Semantic-Guided 4D Gaussian Splatting for Urban Scene Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2412.03473)]
 * KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences, *arXiv*. [[Paper](https://arxiv.org/abs/2412.20767)]
+* 4D Gaussian Splatting: Modeling Dynamic Scenes with Native 4D Primitives, *arXiv*. [[Paper](https://arxiv.org/abs/2412.20720)]
+* DAS3R: Dynamics - Aware Gaussian Splatting for Static Scene Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2412.19518)]
+* GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping, *arXiv*. [[Paper](https://arxiv.org/abs/2501.08672)]
+* MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis, *arXiv*. [[Paper](https://arxiv.org/abs/2501.06660)]
+* DreamDrive: Generative 4D Scene Modeling from Street View Images, *arXiv*. [[Paper](https://arxiv.org/abs/2501.00601)]
+* GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2501.04782)]
+* GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking
+, *arXiv*. [[Paper](https://arxiv.org/abs/2501.02690)]
 
 
 
@@ -524,6 +544,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.01217)]
 * FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.00682)]
 * NeRF and Gaussian Splatting SLAM in the Wild, *arXiv*. [[Paper](https://arxiv.org/abs/2412.03263)]
+* GSplatLoc: Ultra - Precise Camera Localization via 3D Gaussian Splatting, *arXiv*. [[Paper](https://www.arxiv.org/abs/2412.20056)]
+* CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation, *arXiv*. [[Paper](https://arxiv.org/abs/2501.08982)]
+* VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes, *arXiv*. [[Paper](https://arxiv.org/abs/2501.08286)]
+* Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping, *arXiv*. [[Paper](https://arxiv.org/abs/2501.05242)]
+* PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM, *arXiv*. [[Paper](https://arxiv.org/abs/2501.00352)]
 
 
 ### Multimodal-SLAM
@@ -584,6 +609,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors, *arXiv*. [[Paper](https://arxiv.org/abs/2409.08279)]
 * ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2403.08321)]
 * MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation, *arXiv*. [[Paper](https://arxiv.org/abs/2410.15730)]
+* EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation, *arXiv*. [[Paper](https://arxiv.org/abs/2501.01895)]
 
 ## Simulation & Generation
 * Control4D: Efficient 4D Portrait Editing with Text, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2305.20082.pdf)] [[Website](https://control4darxiv.github.io/)]
@@ -652,6 +678,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.11520)]
 * 3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2412.01583)]
 * Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects, *arXiv*. [[Paper](https://arxiv.org/abs/2412.00518)]
+* ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2501.03875)]
 
 
 ---
