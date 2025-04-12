@@ -274,6 +274,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion, *arXiv*. [[Paper](https://arxiv.org/abs/2411.15468)]
 * Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2412.06234)]
 * Pgsr: Planar-based gaussian splatting for efficient and high-fidelity surface reconstruction, **TVCG 2024**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10747190/)]
+* Gasp: Gaussian splatting for physic-based simulations,*arXiv*. [[Paper](https://arxiv.org/abs/2409.05819)]
+* Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion,*arXiv*. [[Paper](https://arxiv.org/abs/2406.04338)]
 
 
 
