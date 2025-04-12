@@ -174,6 +174,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * See In Detail: Enhancing Sparse - view 3D Gaussian Splatting with Local Depth and Semantic Regularization, *arXiv*. [[Paper](https://arxiv.org/abs/2501.11508)]
 * RDG - GS: Relative Depth Guidance with Gaussian Splatting for Real - time Sparse - View 3D Rendering, *arXiv*. [[Paper](https://arxiv.org/abs/2501.11102)]
 * PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression, *arXiv*. [[Paper](https://arxiv.org/abs/2502.04843)]
+* Splatter-360: Generalizable 360∘ Gaussian Splatting for Wide-baseline Panoramic Images, *arXiv*. [[Paper](https://arxiv.org/abs/2412.06250)]
 
 
 
@@ -220,7 +221,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Sort-free Gaussian Splatting via Weighted Sum Rendering, *arXiv*. [[Paper](https://arxiv.org/abs/2410.18931)]
 * LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS, **NeurIPS 2024**. [[Paper](https://arxiv.org/abs/2311.17245)] [[Code](https://lightgaussian.github.io/)]
 * ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2410.23213)]
-* GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes, *arXiv*. [[Paper](https://arxiv.org/abs/2411.01853)]
 * A Hierarchical Compression Technique for 3D Gaussian Splatting Compression, *arXiv*. [[Paper](https://arxiv.org/abs/2411.06976)]
 * DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2411.09156)]
 * Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation, *arXiv*. [[Paper](https://arxiv.org/abs/2411.07579)]
@@ -260,6 +260,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2311.12775.pdf)] [[Website](https://imagine.enpc.fr/~guedona/sugar/)] [[Code](https://github.com/Anttwo/SuGaR)]
 * NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance, *arXiv*. [[Paper](https://arxiv.org/pdf/2312.00846.pdf)]
 * Projecting Radiance Fields to Mesh Surfaces, **SIGGRAPH, 2024**. [[Paper](https://arxiv.org/abs/2406.11570)]
+* GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes, **NeurIPS 2024**. [[Paper](https://arxiv.org/abs/2411.01853)]
 * GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11324.pdf)]
 * Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.15435.pdf)]
 * Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance, *arXiv*. [[Paper](https://arxiv.org/pdf/2407.16173.pdf)]
@@ -272,7 +273,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision, *arXiv*. [[Paper](https://arxiv.org/abs/2411.15723)]
 * SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion, *arXiv*. [[Paper](https://arxiv.org/abs/2411.15468)]
 * Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2412.06234)]
-* Splatter-360: Generalizable 360∘ Gaussian Splatting for Wide-baseline Panoramic Images, *arXiv*. [[Paper](https://arxiv.org/abs/2412.06250)]
+* Pgsr: Planar-based gaussian splatting for efficient and high-fidelity surface reconstruction, **TVCG 2024**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10747190/)]
 
 
 
@@ -376,7 +377,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Mapping & Localization
 ### 3D Reconstruction
 * VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction, **CVPR, 2024**. [[Paper](https://arxiv.org/pdf/2402.17427.pdf)] [[Website](https://vastgaussian.github.io/)] [[Code](https://github.com/kangpeilun/VastGaussian)]
-* 3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2404.00409.pdf)] [[Code](https://github.com/CVMI-Lab/3DGSR)]
+* 3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting, **TOG 2024**. [[Paper](https://arxiv.org/pdf/2404.00409.pdf)] [[Code](https://github.com/CVMI-Lab/3DGSR)]
 * HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.20159.pdf)]
 * A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets, **SIGGRAPH, 2024**. [[Paper](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/hierarchical-3d-gaussians_high.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/)]
 * Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11460)] [[Code](https://github.com/DensoITLab/Fed3DGS)]
