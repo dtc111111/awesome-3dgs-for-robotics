@@ -503,6 +503,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2501.04782)]
 * GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking, *arXiv*. [[Paper](https://arxiv.org/abs/2501.02690)]
 * Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images, *arXiv*. [[Paper](https://arxiv.org/abs/2501.14231)]
+* OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving, *arXiv*. [[Paper](https://arxiv.org/abs/2502.14235)]
 
 
 
@@ -577,6 +578,9 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.14684)]
 * 3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments, *arXiv*. [[Paper](https://arxiv.org/abs/2502.13803)]
 * GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.10975)]
+* PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv*. [[Paper](https://arxiv.org/abs/2502.05752)]
+
+
 
 
 ### Multimodal-SLAM
@@ -609,8 +613,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator, *arXiv*. [[Paper](https://arxiv.org/abs/2411.11839)]
 * EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.15582)]
 * SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/abs/2502.06519)]
-* PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv*. [[Paper](https://arxiv.org/abs/2502.05752)]
-* OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving, *arXiv*. [[Paper](https://arxiv.org/abs/2502.14235)]
 
 
 
