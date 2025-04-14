@@ -35,7 +35,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
     - [Localization & Visual SLAM](#localization--visual-slam)
     - [Multimodal-SLAM](#multimodal-slam)
       
-  - [Planning & Navigation](#planning--navigation)
+  - [Navigation](#planning--global-localization)
   - [Manipulation & RL](#manipulation--rl)
   - [Simulation & Human Interaction](#simulation--generation)
 
@@ -531,7 +531,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.16544)] [[Code](https://github.com/eriksandstroem/Splat-SLAM)]
 * MG-SLAM: Structure Gaussian SLAM with Manhattan World Hypothesis, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.20031)]
 * TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.19614)] [[Code](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID)] [[Website](https://zeldafromheaven.github.io/TAMBRIDGE/)]
-* 3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11367)] [[Website](https://arxiv.org/abs/2403.11367)]
 * IG-SLAM: Instant Gaussian SLAM, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.01126)]
 * Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.05635)]
 * Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM, *arXiv*. [[Paper](https://arxiv.org/pdf/2408.05635)]
@@ -548,7 +547,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * AG-SLAM: Active Gaussian Splatting SLAM, *arXiv*. [[Paper](https://arxiv.org/pdf/2410.17422.pdf)]
 * GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.03807)]
 * DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization, *arXiv*. [[Paper](https://arxiv.org/abs/2411.08373)]
-* Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization, *arXiv*. [[Paper](https://arxiv.org/abs/2411.13610)]
 * LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv*. [[Paper](https://arxiv.org/abs/2411.12185)]
 * DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment, *arXiv*. [[Paper](https://arxiv.org/abs/2411.10722)]
 * DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes, *arXiv*. [[Paper](https://arxiv.org/abs/2411.11921)]
@@ -571,13 +569,10 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2501.13971)]
 * GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization, *arXiv*. [[Paper](https://arxiv.org/abs/2501.13417)]
 * VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM, *arXiv*. [[Paper](https://arxiv.org/abs/2501.13402)]
-* VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion, *arXiv*. [[Paper](https://arxiv.org/abs/2502.01536)]
 * Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping, *arXiv*. [[Paper](https://arxiv.org/abs/2501.19319)]
 * DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior, *arXiv*. [[Paper](https://arxiv.org/abs/2502.09111)]
 * GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM, *arXiv*. [[Paper](https://arxiv.org/abs/2502.03228)]
 * CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.14684)]
-* 3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments, *arXiv*. [[Paper](https://arxiv.org/abs/2502.13803)]
-* GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.10975)]
 * PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv*. [[Paper](https://arxiv.org/abs/2502.05752)]
 
 
@@ -598,7 +593,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 
 
-## Planning & Navigation
+## Planning & Global localization
 * Beyond Uncertainty: Risk-Aware Active View Acquisition for Safe Robot Navigation and 3D Scene Understanding with FisherRF, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11396)] [[Website](https://arxiv.org/abs/2403.11396)]
 * HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.20032.pdf)] [[Website](https://arxiv.org/abs/2403.20032)]
 * Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.02751.pdf)]
@@ -613,6 +608,12 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator, *arXiv*. [[Paper](https://arxiv.org/abs/2411.11839)]
 * EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.15582)]
 * SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/abs/2502.06519)]
+* iComMa: Inverting 3D Gaussian Splatting for Camera Pose Estimation via Comparing and Matching, *arXiv*. [[Paper](https://arxiv.org/abs/2312.09031)]
+* 3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11367)] [[Website](https://arxiv.org/abs/2403.11367)]
+* Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization, *arXiv*. [[Paper](https://arxiv.org/abs/2411.13610)]
+* GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.10975)]
+* VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion, *arXiv*. [[Paper](https://arxiv.org/abs/2502.01536)]
+* 3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments, *arXiv*. [[Paper](https://arxiv.org/abs/2502.13803)]
 
 
 
