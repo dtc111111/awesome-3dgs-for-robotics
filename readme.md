@@ -416,6 +416,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic - Aware Grouping, *arXiv*. [[Paper](https://arxiv.org/abs/2501.01677)]
 * Self-Calibrating Gaussian Splatting for Large Field of View Reconstruction, *arXiv*. [[Paper](https://arxiv.org/abs/2502.09563)]
 * High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion, *arXiv*. [[Paper](https://arxiv.org/abs/2502.12752)]
+* DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene, *arXiv*. [[Paper](https://arxiv.org/abs/2407.16600)]
+* EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.15582)]
 
 ### Dynamic Scene Reconstruction
 * 4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.07472.pdf)] [[Website](https://snap-research.github.io/4Real/)]
@@ -572,6 +574,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM, *arXiv*. [[Paper](https://arxiv.org/abs/2502.03228)]
 * CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.14684)]
 * PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv*. [[Paper](https://arxiv.org/abs/2502.05752)]
+* SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/abs/2502.06519)]
 
 
 
@@ -597,15 +600,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.02751.pdf)]
 * GaussNav: Gaussian Splatting for Visual Navigation, **TPAMI 2025**. [[Paper](https://arxiv.org/pdf/2403.11625.pdf)] [[Code](https://github.com/XiaohanLei/GaussNav)] [[Website](https://xiaohanlei.github.io/projects/GaussNav/)]
 * GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction, **IROS, 2024**. [[Paper](https://arxiv.org/pdf/2405.10142)] [[Video](https://www.bilibili.com/video/BV1e1421S7Kh/)]
-* Scaling 3D Reasoning with LMMs to Large Robot Mission Environments Using Datagraphs, *arXiv*. [[Paper](https://arxiv.org/abs/2407.10743)]
-* DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene, *arXiv*. [[Paper](https://arxiv.org/abs/2407.16600)]
 * Active Implicit Reconstruction Using One-Shot View Planning, **ICRA, 2024**. [[Paper](https://arxiv.org/pdf/2310.00685)]
 * BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2409.10216)]
 * SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/abs/2409.09868)]
 * RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.18122)]
 * RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator, *arXiv*. [[Paper](https://arxiv.org/abs/2411.11839)]
-* EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.15582)]
-* SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/abs/2502.06519)]
 * iComMa: Inverting 3D Gaussian Splatting for Camera Pose Estimation via Comparing and Matching, *arXiv*. [[Paper](https://arxiv.org/abs/2312.09031)]
 * 3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.11367)] [[Website](https://arxiv.org/abs/2403.11367)]
 * Video2BEV: Transforming Drone Videos to BEVs for Video-based Geo-localization, *arXiv*. [[Paper](https://arxiv.org/abs/2411.13610)]
