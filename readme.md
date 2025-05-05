@@ -613,7 +613,8 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * 3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments, *arXiv*. [[Paper](https://arxiv.org/abs/2502.13803)]
 * GaussReg: Fast 3D Registration with Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2407.05254)]
 * Gsloc: Efficient camera pose refinement via 3d gaussian splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2407.05254)]
-* GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting, *ICLR, 2025*. [[Paper](https://openreview.net/forum?id=mP7uV59iJM)] [[code]](https://github.com/XRIM-Lab/GS-CPR)
+* GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting, **ICLR, 2025**. [[Paper](https://openreview.net/forum?id=mP7uV59iJM)] [[code]](https://github.com/XRIM-Lab/GS-CPR)
+* ActiveGAMER: Active GAussian Mapping through Efficient Rendering, **CVPR, 2025**. [[Paper](https://arxiv.org/abs/2501.06897)] 
 
 
 
