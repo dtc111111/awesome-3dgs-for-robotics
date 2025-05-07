@@ -275,6 +275,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Pgsr: Planar-based gaussian splatting for efficient and high-fidelity surface reconstruction, **TVCG 2024**. [[Paper](https://ieeexplore.ieee.org/abstract/document/10747190/)]
 * Gasp: Gaussian splatting for physic-based simulations,*arXiv*. [[Paper](https://arxiv.org/abs/2409.05819)]
 * Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion,*arXiv*. [[Paper](https://arxiv.org/abs/2406.04338)]
+* CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.14684)]
 
 
 
@@ -508,7 +509,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 
 
-### Localization & Visual SLAM
+### Visual SLAM
 * SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM,  **ECCV, 2024**. [[Paper](https://arxiv.org/pdf/2402.03246.pdf)] [[Code](https://github.com/ShuhongLL/SGS-SLAM)]
 * Compact 3D Gaussian Splatting For Dense Visual SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.11247.pdf)] [[Code](https://github.com/dtc111111/Compact_GSSLAM)]
 * NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2405.05702)]
@@ -540,12 +541,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * 6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2407.15484)] [[Code](https://github.com/mbortolon97/6dgs)]
 * Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.12518)]
 * GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.10982)]
-* GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.16502)]
-* SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.14067)]
-* GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10683)] [[Website](https://dingdingcai.github.io/gs-pose/)] [[Code](https://github.com/dingdingcai/GSPose)]
-* HGSLoc: 3DGS-based Heuristic Camera Pose Refinement, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.10925.pdf)]
 * AG-SLAM: Active Gaussian Splatting SLAM, *arXiv*. [[Paper](https://arxiv.org/pdf/2410.17422.pdf)]
-* GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.03807)]
 * DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization, *arXiv*. [[Paper](https://arxiv.org/abs/2411.08373)]
 * LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments, *arXiv*. [[Paper](https://arxiv.org/abs/2411.12185)]
 * DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment, *arXiv*. [[Paper](https://arxiv.org/abs/2411.10722)]
@@ -572,7 +568,6 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping, *arXiv*. [[Paper](https://arxiv.org/abs/2501.19319)]
 * DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior, *arXiv*. [[Paper](https://arxiv.org/abs/2502.09111)]
 * GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM, *arXiv*. [[Paper](https://arxiv.org/abs/2502.03228)]
-* CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2502.14684)]
 * PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map, *arXiv*. [[Paper](https://arxiv.org/abs/2502.05752)]
 * SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps, *arXiv*. [[Paper](https://arxiv.org/abs/2502.06519)]
 
@@ -614,7 +609,12 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * GaussReg: Fast 3D Registration with Gaussian Splatting, **ECCV, 2024**. [[Paper](https://arxiv.org/abs/2407.05254)]
 * Gsloc: Efficient camera pose refinement via 3d gaussian splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2407.05254)]
 * GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting, **ICLR, 2025**. [[Paper](https://openreview.net/forum?id=mP7uV59iJM)] [[code]](https://github.com/XRIM-Lab/GS-CPR)
-* ActiveGAMER: Active GAussian Mapping through Efficient Rendering, **CVPR, 2025**. [[Paper](https://arxiv.org/abs/2501.06897)] 
+* ActiveGAMER: Active GAussian Mapping through Efficient Rendering, **CVPR, 2025**. [[Paper](https://arxiv.org/abs/2501.06897)]
+* GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.16502)]
+* SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.14067)]
+* GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10683)] [[Website](https://dingdingcai.github.io/gs-pose/)] [[Code]   (https://github.com/dingdingcai/GSPose)]
+* HGSLoc: 3DGS-based Heuristic Camera Pose Refinement, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.10925.pdf)]
+* GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.03807)]
 
 
 
