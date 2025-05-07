@@ -32,7 +32,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [Mapping & Localization](#mapping--localization)
     - [3D Reconstruction](#3d-reconstruction)
     - [Dynamic Scene Reconstruction](#dynamic-scene-reconstruction)
-    - [Localization & Visual SLAM](#localization--visual-slam)
+    - [Localization & Visual SLAM](#visual-slam)
     - [Multimodal-SLAM](#multimodal-slam)
       
   - [Navigation](#planning--global-localization)
