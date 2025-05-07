@@ -612,7 +612,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * ActiveGAMER: Active GAussian Mapping through Efficient Rendering, **CVPR, 2025**. [[Paper](https://arxiv.org/abs/2501.06897)]
 * GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.16502)]
 * SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.14067)]
-* GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10683)] [[Website](https://dingdingcai.github.io/gs-pose/)] [[Code]   (https://github.com/dingdingcai/GSPose)]
+* GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation, *arXiv*. [[Paper](https://arxiv.org/pdf/2403.10683)] [[Website](https://dingdingcai.github.io/gs-pose/)][[Code](https://github.com/dingdingcai/GSPose)]
 * HGSLoc: 3DGS-based Heuristic Camera Pose Refinement, *arXiv*. [[Paper](https://arxiv.org/pdf/2409.10925.pdf)]
 * GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting, *arXiv*. [[Paper](https://arxiv.org/abs/2411.03807)]
 
